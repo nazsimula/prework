@@ -1,0 +1,52 @@
+body {
+    background-color: gray;
+    margin: 0 35% 0 35%;
+} 
+#header {
+    background: #ffffff;
+    height: 140px;
+    width: 100%;
+    margin: 0;
+}
+h1 {
+    background-color: #4aaaa5;
+    width: 35%;
+    height: 40px;
+    position: relative;
+    overflow: hidden;
+    padding: 50px 0;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+}
+div {
+    background: #ffffff
+}
+nav {
+    width: 40%;
+    height: 30px;
+    overflow: hidden;
+    margin: -70px;
+    float:right;
+    text-align: right;
+}
+img {
+    float: left;
+    height: 190px;
+    width: 200px;
+    margin: 8px;
+}
+.h2 {
+    background: #ffffff;
+}
+footer {
+    width: 100%;
+    position: relative;
+    color: #4aaaa5;
+    background: #666666;
+    padding: 10px 0;
+    color: #fff;
+    text-align: center;
+
+    
+}
